@@ -1,0 +1,15 @@
+
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.shourya1140.twa",
+      "sha256_cert_fingerprints": [
+        "5C:61:54:7B:24:64:11:A5:2C:D2:72:13:8F:B7:21:F0:07:59:52:35:70:54:E4:2D:70:16:2A:78:AD:2A:BD:E0"
+      ]
+    }
+  }
+]
